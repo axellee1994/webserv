@@ -1,0 +1,6 @@
+hi... I am a test file to see that I exist :')
+
+Hopefully, i will be finally seen by the world when autoindex is set to on.
+
+Sincerely,
+a little test file.
