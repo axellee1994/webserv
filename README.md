@@ -73,9 +73,8 @@ This project is licensed under the MIT License. You are free to use, modify, and
 ## Contact Information
 
 For questions, suggestions, or support, please contact:
-- **GitHub:** [axellee1994](https://github.com/axellee1994)
-- **Email:** [your-email@example.com]
-
+*   **Author(s):** axellee1994 - [https://github.com/axellee1994](https://github.com/axellee1994)
+*   **Project Link:** [https://github.com/axellee1994/webserv](https://github.com/axellee1994/webserv)
 ---
 
 Thank you for using and contributing to **webserv**! If you find this project helpful, please consider starring the repository or submitting improvements.
